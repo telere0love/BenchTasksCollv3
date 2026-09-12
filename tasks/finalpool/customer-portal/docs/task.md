@@ -1,0 +1,1 @@
+Build a customer portal application where users can manage their accounts, view orders, and update preferences.

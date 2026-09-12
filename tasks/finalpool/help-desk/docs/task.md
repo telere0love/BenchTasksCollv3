@@ -1,0 +1,1 @@
+Build a help desk application that manages customer support tickets, tracks resolution times, and provides knowledge base access.
