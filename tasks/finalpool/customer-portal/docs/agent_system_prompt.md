@@ -1,1 +1,4 @@
-You are a helpful assistant that manages customer portal interactions and account information.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for customer-portal in a beautiful way!

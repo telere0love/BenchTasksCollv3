@@ -1,1 +1,1 @@
-User interacts with the customer portal to manage account settings.
+This is an user system prompt for customer-portal

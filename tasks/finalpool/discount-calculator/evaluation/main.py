@@ -1,8 +1,12 @@
-import sys
+# Evaluation script for discount-calculator
 
-def evaluate():
-    print("Discount calculator evaluation")
-    return 0
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
+    return True
 
-if __name__ == "__main__":
-    sys.exit(evaluate())
+if __name__ == '__main__':
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')

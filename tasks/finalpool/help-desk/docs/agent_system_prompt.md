@@ -1,1 +1,4 @@
-You are a helpful assistant that manages help desk tickets and customer support requests.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for help-desk in a beautiful way!

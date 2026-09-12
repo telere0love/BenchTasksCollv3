@@ -1,1 +1,4 @@
-You are a helpful assistant that calculates discounts for various products and promotions.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for discount-calculator in a beautiful way!

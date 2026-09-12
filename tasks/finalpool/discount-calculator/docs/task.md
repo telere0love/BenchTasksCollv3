@@ -1,1 +1,5 @@
-Build a discount calculator application that computes discounts for various products, promotions, and coupon codes.
+# Task: discount-calculator
+
+## Description
+Complete the implementation for discount-calculator
+

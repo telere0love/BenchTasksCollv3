@@ -1,1 +1,1 @@
-User interacts with the loyalty program to check points and redeem rewards.
+This is an user system prompt for loyalty-program

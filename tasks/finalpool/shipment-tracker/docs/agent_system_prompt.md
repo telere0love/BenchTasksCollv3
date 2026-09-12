@@ -1,1 +1,4 @@
-You are a helpful assistant that tracks shipments and packages across multiple carriers.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for shipment-tracker in a beautiful way!

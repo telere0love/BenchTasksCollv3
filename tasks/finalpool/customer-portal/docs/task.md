@@ -1,1 +1,5 @@
-Build a customer portal application where users can manage their accounts, view orders, and update preferences.
+# Task: customer-portal
+
+## Description
+Complete the implementation for customer-portal
+

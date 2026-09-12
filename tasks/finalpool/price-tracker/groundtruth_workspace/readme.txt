@@ -1,1 +1,1 @@
-Ground truth workspace for price-tracker task evaluation.
+Groundtruth data for price-tracker

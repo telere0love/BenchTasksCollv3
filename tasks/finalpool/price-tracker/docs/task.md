@@ -1,1 +1,5 @@
-Build a price tracker application that monitors product prices across multiple e-commerce platforms and alerts users when prices drop.
+# Task: price-tracker
+
+## Description
+Complete the implementation for price-tracker
+

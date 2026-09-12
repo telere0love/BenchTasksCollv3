@@ -1,1 +1,5 @@
-Build a loyalty program management system that tracks customer points, handles reward redemptions, and manages tier levels.
+# Task: loyalty-program
+
+## Description
+Complete the implementation for loyalty-program
+

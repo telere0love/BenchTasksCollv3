@@ -1,1 +1,1 @@
-Initial workspace for customer-portal task.
+Initial workspace for customer-portal
